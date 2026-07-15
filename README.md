@@ -1,91 +1,337 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,100:00B4D8&height=200&section=header&text=Naveen%20Kumar%20M&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Scientist%20%7C%20Python%20Developer%20%7C%20ML%20%26%20NLP&descAlignY=55&descSize=18"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7B68EE&height=200&section=header&text=Naveenkumar+M&fontSize=50&fontColor=ff"/>
+</p>
+
+
+
+
+
+
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Naveenkumar;Data+Science+Enthusiast;Python+Developer;Machine+Learning+Learner">
+</h1>
+
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,git,github,vscode,git,github,vscode,anaconda,linux" />
+</p>
+
+
+
+<h3 align="center">Data Science Enthusiast | Python Developer | Power bi Developer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/naveen-kumar-m-58429a294">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Building+ML+%26+NLP+projects...;Creating+Tamil-language+Voice+AI...;Open+to+Remote+Data+Science+Roles;Python+%7C+SQL+%7C+Power+BI+%7C+Scikit-learn&font=Fira+Code&center=true&width=600&height=45&color=00F5D4&vCenter=true&size=22"/>
+  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/nishanth-senthil-89299b2a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/naveenkumarm200505-max">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="mailto:naveenkumar.m.200505@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
 
-<p align="center">
-  📍 Namakkal, Tamil Nadu, India &nbsp;|&nbsp;
-  🎓 B.Sc Computer Science, Periyar University &nbsp;|&nbsp;
-  📊 Nano Degree in Data Science
-</p>
+---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=naveenkumarm200505-max&color=00F5D4&style=flat&label=Profile+Views"/>
-  <img src="https://img.shields.io/github/followers/naveenkumarm200505-max?label=Followers&style=flat&color=00B4D8"/>
-</p>
+
+</div>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/karnansp36/karnansp36/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/karnansp36/karnansp36/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://github.com/karnansp36/karnansp36/blob/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+<br/>
 
 ---
 
-### 🚀 About Me
-- 🔭 Building end-to-end ML, NLP, and voice-AI projects
-- 🌱 Currently deepening skills in Python, Scikit-learn, SQL, Power BI
-- 👨‍💻 Open to remote entry-level roles as **Junior Python Developer / Data Science Analyst**
-- 🗣️ Passionate about bringing Tamil language into AI tools
-- 📫 Reach me: naveenkumar.m.200505@gmail.com
+
+
+
+
+
+
+
+
+
+
+🎓 Aspiring Ai&Data Scientist from India
+
+📊 Passionate about Data Analytics, Machine Learning, and AI
+---
+🌱 Currently Learning:
+- Python
+-🤖 AI & Data Science 
+- Power BI
+- Mongodb
+- Python
+- SQL
+- Machine Learning
+- 
+## 🚀 Skills
+
+### Programming
+- Python
+- SQL
+
+### Data Visualization
+- Power bi
+
+### Machine Learning
+- Regression
+- Classification
+- Clustering
+
+### Tools
+- Git
+- GitHub
+- Jupyter Notebook
+
+## 📂 Featured Projects
+
+### 📊 Sales Dashboard in Tableau
+- Created interactive dashboards for sales analysis.
+- Visualized KPIs and business insights.
+
+### 🤖 Customer Churn Prediction
+- Built a machine learning model to predict customer churn.
+- Used Python, Pandas, NumPy, and Scikit-learn.
+
+### 😊 Sentiment Analysis
+- Performed text analysis using NLP techniques.
+- Classified positive and negative reviews.
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+
+## 🏆 Certifications
+
+- Data Science Certification
+
+- SQL Certification
 
 ---
 
-### 🛠️ Tech Stack
+  </style>
+</head>
+<body>
+  <nav>
+    <div class="brand">NAVEENKUMAR M</div>
+    <div class="nav-links">
+      <a href="#about">About</a>
+      <a href="#education">Education</a>
+      <a href="#projects">Projects</a>
+      <a href="#skills">Skills</a>
+      <a href="#contact">Contact</a>
+    </div>
+    <a class="cta" href="#contact">Get in touch</a>
+  </nav>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sqlite,mysql,git,github,vscode,tensorflow,sklearn&perline=8"/>
-</p>
+  <header class="hero">
+    <div class="hero-grid">
+      <div>
+        <div class="eyebrow">Aspiring Data Scientist</div>
+        <h1>Naveenkumar M<br><span>Data Scientist</span></h1>
+        <p class="subtitle"> B.Sc Computer ScienceIt equips students to design software, analyze data, and build intelligent tech solutions</p>
+        <div class="buttons">
+          <a class="btn primary" href="#projects">View Projects</a>
+          <a class="btn secondary" href="#contact">Contact Me</a>
+        </div>
+      </div>
+      <div class="hero-card">
+        <ul class="contact-list">
+          <li><strong>Phone:</strong> 9385617812</li>
+          <li><strong>Email:</strong> naveenkumar.m.200505@gmail.com</li>
+          <li><strong>Location:</strong>...</li>
+        </ul>
+      </div>
+    </div>
+  </header>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Tkinter](https://img.shields.io/badge/-Tkinter-3776AB?style=for-the-badge)
+  <section id="about" class="section-band">
+    <h2 class="section-title">Professional Summary</h2>
+    <p class="section-sub">B.Sc Computer Science graduate aspiring to begin a career in the IT industry. Possess strong analytical, programming, and problem-solving skills, with a keen interest in data analysis. Eager to learn new technologies and contribute to organizational success.</p>
+  </section>
+
+  <section id="education">
+    <h2 class="section-title">Education</h2>
+    <p class="section-sub">Academic background and current training.</p>
+    <div class="grid-2">
+      <div class="card">
+        <h3> Bachelor of Science </h3>
+        <p>Muthayammal collage of arts and science at (autonomus), Rasipuram</p>
+        <div class="meta"><span>2022 - 2026</span><span>CGPA: 6.6/10</span></div>
+      </div>
+      <div class="card">
+        <h3>Micro Degree in Data Science</h3>
+        <p>Imagecon India Pvt Ltd</p>
+        <p class="muted">Working on 3+ projects and day-wise assessments, assignments in Python, Data Science, SQL, and related topics.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="projects" class="section-band">
+    <h2 class="section-title">Projects</h2>
+    <p class="section-sub">Key projects added from your PDF.</p>
+    <div class="grid-2">
+      <div class="card">
+        <h3>Hospital Management System | Python, Tkinter</h3>
+        <ul class="list">
+          <li>Designed a software application to manage patient records, appointments, billing, and staff management.</li>
+          <li>Improved workflow efficiency for healthcare providers.</li>
+        </ul>
+      </div>
+      <div class="card">
+        <h3>Housing Price Prediction | Python, Pandas, Scikit-learn</h3>
+        <ul class="list">
+          <li>Built a machine learning model using Linear Regression.</li>
+          <li>Performed preprocessing, EDA, and evaluation using MSE and R² score.</li>
+        </ul>
+      </div>
+      <div class="card">
+        <h3>Amazon E-commerce Sales Dashboard | Power BI</h3>
+        <ul class="list">
+          <li>Built an interactive sales dashboard using Power BI.</li>
+          <li>Created KPIs like Total Revenue, Orders, and Return Rate.</li>
+          <li>Analyzed sales by region and category for business insights.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section id="skills">
+    <h2 class="section-title">Skills</h2>
+    <p class="section-sub">Technical and creative skills listed in the resume.</p>
+    <div class="chips">
+      <span class="chip">Python</span>
+      <span class="chip">MySQL</span>
+      <span class="chip">Machine Learning</span>
+      <span class="chip">Classification</span>
+      <span class="chip">Clustering</span>
+      <span class="chip">Power BI</span>
+      <span class="chip">Poster Design</span>
+      <span class="chip">Video Editing</span>
+      <span class="chip">Mongo DB</span>
+      <span class="chip">Big Data</span>
+    </div>
+  </section>
+
+  <section id="contact" class="section-band">
+    <h2 class="section-title">Contact</h2>
+    <p class="section-sub">Open for internships, projects, and entry-level opportunities in data and software roles.</p>
+    <div class="card" style="max-width: 720px;">
+      <p><strong>Email:</strong> naveenkumar.m.200505@gamil.com</p>
+      <p><strong>Phone:</strong> 9385617812</p>
+    </div>
+  </section>
+
+  <footer>
+    © 2026 Naveenkumar M · Beige/Brown Resume Theme
+  </footer>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Project Discussions
+
+[![Email](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:naveenkumar.m.200505@gmail.com)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Latest Code & Contributions
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-22d3ee?style=for-the-badge&logo=github&logoColor=0a0a0a&labelColor=22d3ee)](https://github.com/karnansp36)
+
+</td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## ⚡ Fun Fact
+
+I enjoy transforming raw data into meaningful insights and dashboards.
 
 ---
 
-### 📌 Featured Projects
+## 🚀 FINAL MESSAGE
+## new
+> Passionate about building impactful software,
+> learning emerging technologies,
+> and creating scalable real-world solutions.
 
-| Project | Description | Tech |
-|---|---|---|
-| 🏠 Housing Price Prediction | Regression model for house price prediction with full EDA & feature engineering | Python, Scikit-learn |
-| 📊 Amazon Sales Dashboard | Interactive Power BI dashboard with custom DAX KPIs | Power BI, DAX |
-| 🏥 [Hospital Management System](https://github.com/naveenkumarm200505-max/Hospital-management-system) | Full desktop app — login, patient/doctor mgmt, appointments | Python, Tkinter, SQLite |
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:1e293b,50:0ea5e9,75:06b6d4,100:22d3ee&height=120&section=footer&text=Thanks%20for%20visiting!%20Let%27s%20build%20something%20exceptional%20🚀&fontSize=16&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
+<br>
+<br/>
 
+<img src="https://komarev.com/ghpvc/?username=karnansp36&style=for-the-badge&color=22d3ee&labelColor=0a0a0a&label=Total+Profile+Views" />
 
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=naveenkumarm200505-max&show_icons=true&theme=react&hide_border=true&bg_color=0D1117"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkumarm200505-max&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
-</p>
+<br/><br/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveenkumarm200505-max&theme=react&hide_border=true&background=0D1117"/>
-</p>
+  <img src="https://avatars.githubusercontent.com/u/
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naveenkumarm200505-max&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F5D4&line=00B4D8&point=ffffff"/>
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/naveenkumarm200505-max/naveenkumarm200505-max/output/github-contribution-grid-snake.svg"/>
-</p>
-
-> ⚠️ The snake animation needs a one-time GitHub Actions setup (below) — it won't appear until that's added.
-
----
-
-<p align="center">
-  <a href="mailto:naveenkumar.m.200505@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/naveen-kumar-m-58429a294"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:00F5D4&height=100&section=footer"/>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Thank+You">
+</h1>
